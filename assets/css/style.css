@@ -1,0 +1,37 @@
+head {
+    align-items: center;
+}
+
+header {
+    background-color: aqua;
+    
+}
+.subtitle {
+    background-color: darkgreen;
+    font-size: larger;
+    font-weight: 100;
+
+}
+.work {
+ 
+    
+    font-size: large;
+    align-items: center;
+  }
+  footer h1 {
+      background-color: chartreuse;
+      
+  }
+  .work {
+      background-color: blueviolet;
+  }
+  .work h3 {
+      font-size: x-large;
+  }
+  .contact-info {
+      background-color: darkcyan;
+      font-weight: 300;
+  }
+ 
+  
+
